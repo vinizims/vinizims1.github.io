@@ -1,0 +1,14 @@
+/* Estrutura */
+
+body, html {
+    overflow-x: hidden;
+}
+
+nav h1 {
+    text-indent: -33333px;
+    display: inline-block;
+}
+
+a {
+  text-decoration: none;
+}
